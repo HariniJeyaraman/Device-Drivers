@@ -9,11 +9,12 @@
 
 2.
 
-(a) Write a module that can take an integer parameter when it is loaded with insmod command.
+    
+   (a) Write a module that can take an integer parameter when it is loaded with insmod command.
 
-AND
+   AND
 
-(b) Write a module which prints your name in log.
+   (b) Write a module which prints your name in log.
 
 
 3. Write a module that setup a linked list of data structure.
