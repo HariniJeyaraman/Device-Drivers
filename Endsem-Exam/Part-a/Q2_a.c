@@ -1,3 +1,7 @@
+/* SJ Harini
+   CED17I048
+*/
+
 #include<linux/module.h>
 static int num = 10; //integer initialized with 10. If no parameters are passed in CLI, it will print this value
 
